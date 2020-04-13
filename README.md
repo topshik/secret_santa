@@ -1,2 +1,2 @@
-# secret_santa
+# Secret Santa
 Simple mailing script

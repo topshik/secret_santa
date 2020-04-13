@@ -5,6 +5,6 @@ The script needs a .csv table which contains data in the form `name, email, plac
 
 ## Usage
 1. First of all, collect data as described above and place it into the the file `data.csv`
-2. Secondly, edit the script file, entering your email, password and a letter subject as a python string into correspondig variables.
+2. Secondly, edit the script file, entering your email, password and a letter subject as a python string into correspondig variables
 3. Then you need to allow usage of external apps in your [account settings](https://support.google.com/accounts/answer/6010255)
 4. Finally, run script and enjoy your Christmas gifts :)
